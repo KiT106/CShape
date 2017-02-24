@@ -10,7 +10,7 @@ namespace Sharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("hola");
             Console.WriteLine("World");
         }
     }
