@@ -11,7 +11,7 @@ namespace Sharp
         static void Main(string[] args)
         {
             Console.WriteLine("hola");
-            Console.WriteLine("World");
+            Console.WriteLine("mundo");
         }
     }
 }
